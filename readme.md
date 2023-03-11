@@ -12,8 +12,8 @@ ___
     * 학과 : 사회복지학과 <br>
     * 학번 : 17학번 <br>
     * 이번 학기 시간표입니다 <br>
-
-    ![시간표](/image/timetable.jpg){: width="50" height="50"}
+    
+    <img src="/image/timetable.jpg" width="100" height="100>
 
 
 * ### 기타사항
