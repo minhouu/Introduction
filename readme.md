@@ -25,6 +25,7 @@ ___
     면접 때 이야기했던 아이디어(조립컴퓨터 관련)도 이 컴퓨터를 조립하다가 떠오른 아이디어입니다. <br>
     
     ![컴퓨터 사진1](/image/computer1.jpg)
+    <img src="/image/computer1.jpg" width="600" height="400">
     
     ![컴퓨터 사진2](/image/computer2.jpg)
     * 5700x + 6700xt로 구성했습니다.
